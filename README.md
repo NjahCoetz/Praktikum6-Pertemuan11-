@@ -39,4 +39,4 @@ print(d("Azzahra"))
 
 * **Hasil output program:**
 
-! [Gambar 1]()
+! [Gambar 1](https://github.com/NjahCoetz/Praktikum6-Pertemuan11-/blob/main/ss6.PNG)
